@@ -1,4 +1,4 @@
-# TRON Blockchain Transaction Processor
+# Blockchain Transaction Processor
 
 ## 📌 Overview
 This project is designed to fetch, filter, and process transactions from the TRON blockchain using the TRON Full Node. It efficiently retrieves and processes transaction data, filters transactions related to blacklist events, and stores the results in a CSV file for further analysis.
@@ -74,9 +74,4 @@ This iterates through blockchain data in batches, processes transactions, and wr
 - 🔗 `base58` - for address conversion
 - 🖥 `psutil` - for system resource management
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
-## 🤝 Contact
-For issues or contributions, please submit a pull request or open an issue on GitHub.
 
